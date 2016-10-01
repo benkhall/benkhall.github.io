@@ -1,0 +1,13 @@
+  <!DOCTYPE html>
+
+  <html>
+
+  <body>
+  
+    <h1> Hello World </h1>
+
+      <p> This is Ben Hall speaking, I'm really enjoying this. <br /> My intention is to use this as a space to share my CV, thoughts, articles, some details about myself whilst enjoying learning html and css, as well as understanding how to build a website. </p>
+
+  </body>
+
+  </html>
